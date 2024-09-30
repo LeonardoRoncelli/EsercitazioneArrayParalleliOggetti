@@ -1,3 +1,4 @@
+package auto;
 public class Auto {
     private String marca;
     private String modello;
